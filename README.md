@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roberto120188
+- 👋 Hi, I’m @Roberto Mota
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning programming and other things!
 - 💞️ I’m looking to collaborate on projects and reports!
